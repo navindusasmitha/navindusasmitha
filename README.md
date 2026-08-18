@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navindu Sasmitha</h1>
 <h3 align="center">Full Stack Developer | AI • Web • Cloud • Automation | Building Crakbit 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navindusasmitha&label=Profile%20views&color=0e75b6&style=flat" alt="navindusasmitha" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=navindusasmitha&label=Profile%20views&color=0e75b6&style=flat](https://i.ibb.co/ccMGdPP4/Chat-GPT-Image-May-21-2026-06-28-22-PM.png)" alt="navindusasmitha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navindusasmitha" alt="navindusasmitha" /></a> </p>
 
