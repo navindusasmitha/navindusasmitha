@@ -45,4 +45,4 @@ interests:
   - DevOps
 
 status: "Building ideas into real products 🚀"
- meka lassnatahadenna
+ 
