@@ -1,103 +1,103 @@
 <!-- ===================== HEADER ===================== -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0d47a1,100:00e5ff&height=230&section=header&text=Navindu%20Sasmitha&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Crakbit&descAlignY=58&descSize=17&animation=fadeIn"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7000ff,100:ff00e4&height=250&section=header&text=Navindu%20Sasmitha&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Architect%20⚡%20Web3%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%E2%80%A2+Web+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+Crakbit+%F0%9F%9A%80;Creating+AtlasUI+%E2%9C%A8;Turning+Ideas+Into+Real+Products"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=✨+Building+the+Future+with+Code;🚀+Founder+at+Crakbit;💎+Creating+AtlasUI;🌐+Full+Stack+%2B+AI+%2B+Cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/navindusasmitha">
-    <img src="https://komarev.com/ghpvc/?username=navindusasmitha&label=PROFILE+VIEWS&color=00bfff&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/navindusasmitha?tab=followers">
-    <img src="https://img.shields.io/github/followers/navindusasmitha?label=FOLLOWERS&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Follow-Me-7000ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://crakbit.space">
-    <img src="https://img.shields.io/badge/CRAKBIT-ONLINE-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Crakbit-Live-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=navindusasmitha&label=EXPLORERS&color=ff00e4&style=for-the-badge" />
 </p>
 
-<br/>
+---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== MAIN CONTENT ===================== -->
 
-## 👨‍💻 About Me
-
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <p>I am a passionate <b>Full Stack Developer</b> from Sri Lanka 🇱🇰, dedicated to building scalable web applications and AI-driven solutions.</p>
-      <ul>
-        <li>🚀 Currently building <b>Crakbit</b> & <b>AtlasUI</b></li>
-        <li>🧠 Interested in <b>AI, Cloud Architecture & DevOps</b></li>
-        <li>💡 Exploring the intersection of design and functionality</li>
-        <li>📫 How to reach me: <a href="mailto:contact@crakbit.space">contact@crakbit.space</a></li>
-      </ul>
+    <td width="55%" valign="top">
+      <h2 align="left">✨ <ins>System.Identity</ins></h2>
+      <p><b>A creative developer from the pearl of the Indian Ocean 🇱🇰</b></p>
+      <p>I transform complex ideas into high-performance digital products. My focus is on <i>scalability, aesthetics, and user experience.</i></p>
+      
+      <p>🚀 <b>Mission:</b> Building <b>Crakbit</b> and its ecosystem.</p>
+      
+      <p><b>Currently Crafting:</b></p>
+      <code>✦ Crakbit AI</code> &nbsp; <code>✦ AtlasUI</code> &nbsp; <code>✦ Crakbit Society</code>
+      
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-Building%20Ideas-00ff9d?style=flat-square&logo=rocket" />
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navindusasmitha&layout=compact&theme=vision-friendly-dark&hide_border=true" width="100%" />
-      </div>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navindusasmitha&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=0d111700" width="100%" />
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ===================== TECH STACK (WEB3 STYLE) ===================== -->
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br/>
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- ===================== PROJECTS & STATS ===================== -->
-
-## 📊 GitHub Ecosystem
+<h2 align="center">🔮 Mastered Technologies</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navindusasmitha&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navindusasmitha&theme=vision-friendly-dark&hide_border=true" width="48%" />
-</p>
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <a href="https://crakbit.space">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00E5FF?style=for-the-badge&logo=rocket" />
-  </a>
+  <!-- Frontend Group -->
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0d47a1,100:00e5ff&height=100&section=footer" width="100%" />
+  <!-- Backend Group -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Tools Group -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Automation-FF4438?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevOps-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+<!-- ===================== STATS SECTION ===================== -->
+
+<h2 align="center">📊 Network Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navindusasmitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d111700&title_color=00e5ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navindusasmitha&theme=tokyonight&hide_border=true&background=0d111700&sideNums=00e5ff&stroke=00e5ff" width="48%" />
+</p>
+
+<br>
+
+<!-- ===================== CUTE FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Glowing%20Star.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="40" />
+</p>
+
+<p align="center">
+  <b>Let's build something extraordinary together!</b><br>
+  <a href="https://crakbit.space">Portfolio</a> • <a href="mailto:contact@crakbit.space">Email</a> • <a href="https://github.com/navindusasmitha">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:7000ff&height=15&width=100%&section=footer" width="100%" />
 </p>
